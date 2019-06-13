@@ -1,1 +1,1 @@
-# CartPole
+# CartPole-v1
